@@ -1,0 +1,1 @@
+elasticsearch-fixtures==0.1.1
